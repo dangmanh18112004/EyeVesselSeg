@@ -7,20 +7,20 @@ Root/
 │
 ├── Data/
 │   ├── FIVES/
-|	      ├── Train/
-|	          ├── Images/
-|	          └── Labels/
-|	      ├── Test/
-|	          ├── Images/
-|	          └── Labels/
+|	 ├── Train/
+|	      ├── Images/
+|	      └── Labels/
+|	 ├── Test/
+|	      ├── Images/
+|	      └── Labels/
 |
 ├── Processed_data/
 │   ├── FIVES/
-|	      ├── Train/
-|	          ├── Images/
-|	          └── Labels/
-|	      ├── Test/
-|	          ├── Images/
-|	          └── Labels/
+|	 ├── Train/
+|	      ├── Images/
+|	      └── Labels/
+|	 ├── Test/
+|	      ├── Images/
+|	      └── Labels/
 |
 └── README.md
